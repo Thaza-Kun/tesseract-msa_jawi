@@ -1,1 +1,3 @@
-# Tesseract MSA Jawi\n\nCubaan menyokong OCR Jawi dalam Tesseract
+# Tesseract MSA Jawi
+
+Cubaan menyokong OCR Jawi dalam Tesseract
